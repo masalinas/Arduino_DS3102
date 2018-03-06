@@ -30,4 +30,5 @@ Previous to upload your sketch to Arduino, you must:
 
 # DS3102 Arduino connection
 
+![img_4683](https://user-images.githubusercontent.com/1216181/37030523-896f38c4-213b-11e8-901c-f6c2dfbe760b.JPG)
 
