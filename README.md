@@ -33,7 +33,7 @@ Previous to upload your sketch to Arduino, you must:
 ![img_4683](https://user-images.githubusercontent.com/1216181/37030523-896f38c4-213b-11e8-901c-f6c2dfbe760b.JPG)
 
 ### Arduino libraries
-Install the [DS3102 by msparks](https://github.com/msparks/arduino-ds1302) library from github. Download git, reaname zip file to DS1302 and rename the inside directory to DS1302 also. From Asrduino IDE install the library from zip options of the library management menu.
+Install the [DS3102 by msparks](https://github.com/msparks/arduino-ds1302) library from github. Download git, reaname zip file to DS1302 and rename the inside directory to DS1302 also. From Arduino IDE install the library from zip options of the library management menu.
 
 ### Sketch running
 ![ds3102_runnig](https://user-images.githubusercontent.com/1216181/37031116-e068510e-213d-11e8-8913-aa199ee70e41.png)
