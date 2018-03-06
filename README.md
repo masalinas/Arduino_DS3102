@@ -1,7 +1,7 @@
 # Arduino_DS3102
 Proof of concept Arduino and Realtime DS3102
 
-# Ubuntu Configuration
+### Ubuntu Configuration
 
 Previous to upload your sketch to Arduino, you must:
 
@@ -28,7 +28,9 @@ Previous to upload your sketch to Arduino, you must:
     ATTRS{idVendor}=="2a03", ENV{ID_MM_DEVICE_IGNORE}="1"
     ```
 
-# DS3102 Arduino connection
+### DS3102 Arduino connection
 
 ![img_4683](https://user-images.githubusercontent.com/1216181/37030523-896f38c4-213b-11e8-901c-f6c2dfbe760b.JPG)
 
+### Arduino libraries
+Install the [DS3102 by msparks](https://github.com/msparks/arduino-ds1302) from github. Download git, reaname zip file to DS1302 and rename the inside directory to DS1302 also. From Asrduino IDE install the library from zip options of the library management menu.
